@@ -1,9 +1,9 @@
 <addon id="repository.lisy" name="lisy" version="1.0.0" provider-name="lucas">
     <extension point="xbmc.addon.repository" name="Your Custom Repository">
         <dir>
-            <info compressed="false">https://github.com/lucasPoret/repository.lisy/blob/main/addon.xml</info>
-            <checksum>https://github.com/lucasPoret/repository.lisy/blob/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/lucasPoret/repository.lisy/blob/main/</datadir>
+            <info compressed="false">https://lucasporet.github.io/repository.lisy/addon.xml</info>
+            <checksum>https://lucasporet.github.io/repository.lisy/addons.xml.md5</checksum>
+            <datadir zip="true">https://lucasporet.github.io/repository.lisy/</datadir>
         </dir>
     </extension>
     <requires>
